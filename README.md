@@ -1,6 +1,6 @@
 
 
-# Hi, I'm [Ramy Khachab] 🚀 
+# Hello, I'm Ramy Khachab 🚀 
 
 ### Full Stack Engineer | Aspiring ML Engineer 🧠
 
@@ -29,7 +29,7 @@ I specialize in building scalable, end-to-end web applications and am currently 
 ---
 
 ### 📈 What I’m Up To
-- 🔭 **Working on:** [Lumea], a full-stack social media application.
+- 🔭 **Working on:** Lumea, a full-stack social media application.
 - 📚 **Learning:** Exploring Deep Learning architectures and sharpening my Data Engineering skills.
 - 🎯 **Goal:** Integrating ML models into production-ready web environments.
 
@@ -37,8 +37,8 @@ I specialize in building scalable, end-to-end web applications and am currently 
 
 ### 📊 GitHub Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=[Ramykhb]&show_icons=true&theme=tokyonight" alt="Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Ramykhb]&layout=compact&theme=tokyonight" alt="Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=Ramykhb&show_icons=true&theme=tokyonight" alt="Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramykhb&layout=compact&theme=tokyonight" alt="Languages" />
 </p>
 
 ---
