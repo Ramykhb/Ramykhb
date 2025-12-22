@@ -1,6 +1,6 @@
 
 
-# Hello, I'm Ramy Khachab 🚀 
+# Hello, I'm Ramy 🚀 
 
 ### Full Stack Engineer | Aspiring ML Engineer 🧠
 
@@ -41,13 +41,10 @@ I specialize in building scalable, end-to-end web applications and am currently 
 
 ---
 
-- 📫 How to reach me: **ramykhb18@gmail.com**
+### 🤝 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramy-khachab-42a220375) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramykhb18@gmail.com)
 
 <!--
-### 🤝 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-link) 
 [![Portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](your-portfolio-link)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your-twitter-link)
-
-"The best way to predict the future is to code it."
 -->
