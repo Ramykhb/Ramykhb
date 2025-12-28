@@ -17,13 +17,13 @@ I specialize in building scalable, end-to-end web applications and am currently 
 [![Frontend](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,jquery,figma)](https://skillicons.dev)
 
 ### ⚙️ Backend & Frameworks
-[![Backend](https://skillicons.dev/icons?i=nodejs,express,django,flask,spring)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,django,flask,spring,nestjs)](https://skillicons.dev)
 
 ### 🤖 Machine Learning & Data Science
 [![ML](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn)](https://skillicons.dev)
 
 ### 🗄️ Databases & DevTools
-[![Tools](https://skillicons.dev/icons?i=mongodb,mysql,sqlite,git,maven)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=mongodb,mysql,prisma,postgres,sqlite,git,maven)](https://skillicons.dev)
 
 ---
 
