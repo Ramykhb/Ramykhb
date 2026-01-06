@@ -36,7 +36,7 @@ I specialize in building scalable, end-to-end web applications and am currently 
 
 ### 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramykhb&layout=compact&theme=tokyonight" alt="Languages" />
+<img src="https://github-readme-stats-d2przce3w-ramykhbs-projects.vercel.app/api/top-langs/?username=Ramykhb&layout=compact&theme=tokyonight" alt="Languages" />
 </p>
 
 ---
