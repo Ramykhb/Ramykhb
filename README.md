@@ -34,15 +34,8 @@ I specialize in building scalable, end-to-end web applications and am currently 
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats-d2przce3w-ramykhbs-projects.vercel.app/api/top-langs/?username=Ramykhb&layout=compact&theme=tokyonight" alt="Languages" />
-</p>
-
----
-
 ### 🤝 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramy-khachab-42a220375) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramykhachab) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramykhb18@gmail.com)
 
 <!--
