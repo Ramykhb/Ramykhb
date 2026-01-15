@@ -11,7 +11,7 @@ I specialize in building scalable, end-to-end web applications and am currently 
 ## 🛠 Skills & Technologies
 
 ### 💻 Languages
-[![Languages](https://skillicons.dev/icons?i=c,cs,cpp,java,js,ts,py)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=c,cpp,java,js,ts,py)](https://skillicons.dev)
 
 ### 🌐 Frontend Development
 [![Frontend](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,jquery,figma)](https://skillicons.dev)
