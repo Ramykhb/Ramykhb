@@ -28,9 +28,10 @@ I specialize in building scalable, end-to-end web applications and am currently 
 ---
 
 ### 📈 What I’m Up To
-- 🔭 **Working on:** SitMyPet, a react native mobile app that allows pet owners and pet sitters to post pet sitting requests and applications.
+- ✅ **Recently Completed:** SitMyPet, a React Native mobile application that connects pet owners with pet sitters through pet sitting requests and applications.
 - 📚 **Learning:** Exploring Deep Learning architectures and sharpening my Data Engineering skills.
 - 🎯 **Goal:** Integrating ML models into production-ready web environments.
+- 🚀 **Currently:** Open to new projects and opportunities while continuing to expand my Full Stack and Machine Learning expertise.
 
 ---
 
