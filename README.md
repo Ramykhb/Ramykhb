@@ -31,7 +31,7 @@ Currently developing Sora — AI-assisted navigation for blind people.
 └────────────────────────────────────────────────────────┘
 ```
 
-## / about
+## About Me
 
 I enjoy building the whole application: the interface someone interacts
 with, the backend logic behind it, and the data moving between them.
@@ -43,7 +43,7 @@ respond in useful ways.
 With Sora, that direction is becoming a concrete project: connecting
 a mobile experience to continuous AI analysis of camera frames.
 
-## / currently building
+## Currently Building
 
 ### Sora
 
@@ -82,17 +82,17 @@ timely, useful feedback in the mobile experience.
 
 **Status:** In development
 
-## / engineering toolkit
+## Tech Stack
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### The languages
+### Languages
 
 <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,py&perline=6" alt="C, C++, Java, JavaScript, TypeScript, Python"/>
 
-### The interface
+### Frontend & Mobile
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,jquery&perline=6" alt="React, Next.js, Tailwind CSS, HTML, CSS, jQuery"/>
 
@@ -101,11 +101,11 @@ React Native for mobile applications.
 </td>
 <td width="50%" valign="top">
 
-### The engine
+### Backend
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,flask,spring,php,laravel&perline=4" alt="Node.js, Express, NestJS, Django, Flask, Spring, PHP, Laravel"/>
 
-### The data layer
+### Databases
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,prisma&perline=6" alt="PostgreSQL, MySQL, MongoDB, SQLite, Prisma"/>
 
@@ -114,7 +114,7 @@ React Native for mobile applications.
 <tr>
 <td width="50%" valign="top">
 
-### The learning lab
+### Machine Learning
 
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&perline=6" alt="PyTorch, TensorFlow, scikit-learn"/>
 
@@ -124,7 +124,7 @@ my data engineering skills.
 </td>
 <td width="50%" valign="top">
 
-### The workbench
+### Tools & Design
 
 <img src="https://skillicons.dev/icons?i=git,maven,figma&perline=6" alt="Git, Maven, Figma"/>
 
@@ -134,9 +134,9 @@ Tools for versioning, building, and designing.
 </tr>
 </table>
 
-## / shipped projects
+## Completed Projects
 
-### 01 — WatchWise
+### WatchWise
 
 `React` · `TypeScript` · `Laravel` · `Real-time` · `AI`
 
@@ -159,7 +159,7 @@ and sharing the experience into one place.
 
 ---
 
-### 02 — SitMyPet
+### SitMyPet
 
 `React Native` · `Mobile application` · `Pet care`
 
@@ -173,7 +173,7 @@ logic behind a pet care workflow.
 
 **Status:** Completed
 
-## / the build history
+## GitHub Activity
 
 A look at the work behind the repositories.
 
@@ -202,7 +202,7 @@ A look at the work behind the repositories.
 
 <sub>Generated daily from GitHub activity. Language charts reflect repository activity, not proficiency.</sub>
 
-## / where I'm heading
+## What I’m Learning
 
 ```text
                      FULL STACK ENGINEERING
@@ -227,7 +227,7 @@ My goal is to integrate machine learning into production-ready
 applications — connecting model behavior, reliable backend systems,
 and interfaces that make the result useful.
 
-## / open a conversation
+## Connect With Me
 
 I'm open to projects, collaborations, and engineering opportunities,
 especially where full stack development meets machine learning.
