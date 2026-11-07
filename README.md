@@ -6,8 +6,8 @@
 
 Full Stack Engineer · Aspiring ML Engineer
 
-Building end-to-end applications.<br/>
-Exploring how data and deep learning can make them smarter.
+Building applications that connect people, data, and intelligent systems.<br/>
+Currently developing Sora — AI-assisted navigation for blind people.
 
 <br/>
 
@@ -20,25 +20,67 @@ Exploring how data and deep learning can make them smarter.
 ---
 
 ```text
-┌─ ramy / workspace ────────────────────────────────────┐
-│                                                      │
-│  role       Full Stack Engineer                       │
-│  shipped    SitMyPet · React Native                    │
-│  learning   Deep Learning + Data Engineering          │
-│  next       Bringing ML into production applications │
-│  status     Open to projects and opportunities       │
-│                                                      │
-└──────────────────────────────────────────────────────┘
+┌─ ramy / workspace ─────────────────────────────────────┐
+│                                                        │
+│  role       Full Stack Engineer                        │
+│  building   Sora · AI-assisted navigation              │
+│  shipped    WatchWise · SitMyPet                       │
+│  exploring  Deep Learning + Data Engineering           │
+│  status     Open to projects and opportunities         │
+│                                                        │
+└────────────────────────────────────────────────────────┘
 ```
 
 ## / about
 
-I enjoy working across the whole application: the interface people use,
-the backend logic that powers it, and the data connecting everything.
+I enjoy building the whole application: the interface someone interacts
+with, the backend logic behind it, and the data moving between them.
 
-My foundation is full stack development. My next chapter is machine
-learning — understanding the models, the data pipelines, and what it
-takes to turn an experiment into useful software.
+My foundation is full stack engineering. I'm expanding into machine
+learning to build software that can interpret its surroundings and
+respond in useful ways.
+
+With Sora, that direction is becoming a concrete project: connecting
+a mobile experience to continuous AI analysis of camera frames.
+
+## / currently building
+
+### Sora
+
+`Mobile application` · `Computer vision` · `Streaming` · `Accessibility`
+
+**Turning camera frames into awareness of the path ahead.**
+
+Sora is a mobile application being developed to help blind people
+understand their surroundings while holding their phone.
+
+Its AI backend continuously analyzes camera frames to detect obstacles
+and assess whether the path ahead appears clear, then streams feedback
+back to the application.
+
+```text
+   PHONE CAMERA
+        │
+        ▼
+   Camera frames
+        │
+        ▼
+   AI BACKEND
+   Analyze the scene
+   Detect obstacles
+   Assess the path ahead
+        │
+        ▼
+   Continuous feedback
+        │
+        ▼
+   MOBILE APPLICATION
+```
+
+**Currently working on:** connecting continuous visual analysis with
+timely, useful feedback in the mobile experience.
+
+**Status:** In development
 
 ## / engineering toolkit
 
@@ -54,12 +96,14 @@ takes to turn an experiment into useful software.
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,jquery&perline=6" alt="React, Next.js, Tailwind CSS, HTML, CSS, jQuery"/>
 
+React Native for mobile applications.
+
 </td>
 <td width="50%" valign="top">
 
 ### The engine
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,flask,spring&perline=6" alt="Node.js, Express, NestJS, Django, Flask, Spring"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,flask,spring,php,laravel&perline=4" alt="Node.js, Express, NestJS, Django, Flask, Spring, PHP, Laravel"/>
 
 ### The data layer
 
@@ -90,27 +134,44 @@ Tools for versioning, building, and designing.
 </tr>
 </table>
 
-## / recently shipped
+## / shipped projects
 
-### SitMyPet
+### 01 — WatchWise
+
+`React` · `TypeScript` · `Laravel` · `Real-time` · `AI`
+
+**Discover better. Watch together.**
+
+A movie and TV discovery platform that brings finding something to watch
+and sharing the experience into one place.
+
+- Personalized recommendations, including weather-aware movie picks.
+- Watchlists, custom lists, ratings, and reviews.
+- Collaborative movie nights with invitations and film voting.
+- Live discussion rooms powered by Laravel Reverb.
+- A conversational AI assistant and AI-assisted review analysis.
+- Social profiles, following, and administration tools.
+
+**Stack:** React · TypeScript · Laravel · PHP · SQLite · TMDB · Groq<br/>
+**Status:** Completed
+
+[Explore the repository ↗](https://github.com/Ramykhb/WatchWise)
+
+---
+
+### 02 — SitMyPet
+
 `React Native` · `Mobile application` · `Pet care`
 
-Finding care for a pet starts with finding the right person.
+**Connecting pet owners with people who can care for their pets.**
 
-SitMyPet connects **pet owners** with **pet sitters** through sitting
-requests and applications.
+A mobile application where pet owners create sitting requests
+and pet sitters apply to help.
 
-```text
-  PET OWNER                              PET SITTER
-      │                                      │
-      ▼                                      ▼
-  Creates a request ◄──────────────── Applies to help
-      │                                      ▲
-      └────────── Sitting requests ────────────┘
-```
+The project brought together mobile interfaces and the application
+logic behind a pet care workflow.
 
-**Completed.** A project bringing together mobile interfaces and
-the application logic behind a pet care workflow.
+**Status:** Completed
 
 ## / the build history
 
@@ -141,29 +202,35 @@ A look at the work behind the repositories.
 
 <sub>Generated daily from GitHub activity. Language charts reflect repository activity, not proficiency.</sub>
 
-## / the next chapter
+## / where I'm heading
 
 ```text
-                         FULL STACK
-                             │
-                 ┌───────────┴───────────┐
-                 ▼                       ▼
-           DEEP LEARNING          DATA ENGINEERING
-           Model behavior         Reliable data pipelines
-                 │                       │
-                 └───────────┬───────────┘
-                             ▼
-                     ML IN PRODUCTION
-                Useful models. Real applications.
+                     FULL STACK ENGINEERING
+                              │
+                  ┌───────────┴───────────┐
+                  ▼                       ▼
+            DEEP LEARNING          DATA ENGINEERING
+            Understanding          Preparing and
+            the models             moving the data
+                  │                       │
+                  └───────────┬───────────┘
+                              ▼
+                      ML IN PRODUCTION
+                   From experiments to apps
+                              │
+                              ▼
+                             SORA
+                 Applying what I'm learning
 ```
 
-I'm working toward integrating ML models into production-ready web
-applications, while continuing to sharpen my full stack engineering.
+My goal is to integrate machine learning into production-ready
+applications — connecting model behavior, reliable backend systems,
+and interfaces that make the result useful.
 
 ## / open a conversation
 
-Have an application to build, a problem to explore, or an opportunity
-at the intersection of software and data?
+I'm open to projects, collaborations, and engineering opportunities,
+especially where full stack development meets machine learning.
 
 **[Send me an email ↗](mailto:ramykhb18@gmail.com)**
 
