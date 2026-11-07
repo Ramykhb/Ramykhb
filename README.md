@@ -210,7 +210,7 @@ A look at the work behind the repositories.
                               │
                   ┌───────────┴───────────┐
                   ▼                       ▼
-            DEEP LEARNING           AI ENGINEERING 
+            DEEP LEARNING           AI ENGINEERING
             Understanding          Integrating models
             the models             into applications
                   │                       │
