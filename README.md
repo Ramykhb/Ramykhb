@@ -4,9 +4,9 @@
 
 ### From the interface to the intelligence behind it.
 
-Full Stack Engineer · Aspiring ML Engineer
+Full Stack Engineer · Aspiring AI Engineer
 
-Building applications that connect people, data, and intelligent systems.<br/>
+Building applications that connect people with intelligent systems.<br/>
 Currently developing Sora — AI-assisted navigation for blind people.
 
 <br/>
@@ -25,7 +25,7 @@ Currently developing Sora — AI-assisted navigation for blind people.
 │  role       Full Stack Engineer                        │
 │  building   Sora · AI-assisted navigation              │
 │  shipped    WatchWise · SitMyPet                       │
-│  exploring  Deep Learning + Data Engineering           │
+│  exploring  Deep Learning + AI Engineering             │
 │  status     Open to projects and opportunities         │
 │                                                        │
 └────────────────────────────────────────────────────────┘
@@ -34,11 +34,12 @@ Currently developing Sora — AI-assisted navigation for blind people.
 ## About Me
 
 I enjoy building the whole application: the interface someone interacts
-with, the backend logic behind it, and the data moving between them.
+with, the backend logic behind it, and the AI capabilities that bring it to life.
 
-My foundation is full stack engineering. I'm expanding into machine
-learning to build software that can interpret its surroundings and
-respond in useful ways.
+My foundation is full stack engineering, and I’m especially interested in
+AI engineering: turning models into useful features and complete applications.
+I enjoy building software that can interpret its surroundings and respond
+in useful ways.
 
 With Sora, that direction is becoming a concrete project: connecting
 a mobile experience to continuous AI analysis of camera frames.
@@ -114,12 +115,12 @@ React Native for mobile applications.
 <tr>
 <td width="50%" valign="top">
 
-### Machine Learning
+### AI & Machine Learning
 
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&perline=6" alt="PyTorch, TensorFlow, scikit-learn"/>
 
-Exploring deep learning architectures and strengthening
-my data engineering skills.
+Exploring deep learning architectures and AI engineering,
+with a focus on integrating models into real applications.
 
 </td>
 <td width="50%" valign="top">
@@ -209,13 +210,13 @@ A look at the work behind the repositories.
                               │
                   ┌───────────┴───────────┐
                   ▼                       ▼
-            DEEP LEARNING          DATA ENGINEERING
-            Understanding          Preparing and
-            the models             moving the data
+            DEEP LEARNING           AI ENGINEERING 
+            Understanding          Integrating models
+            the models             into applications
                   │                       │
                   └───────────┬───────────┘
                               ▼
-                      ML IN PRODUCTION
+                      AI IN PRODUCTION
                    From experiments to apps
                               │
                               ▼
@@ -223,14 +224,13 @@ A look at the work behind the repositories.
                  Applying what I'm learning
 ```
 
-My goal is to integrate machine learning into production-ready
-applications — connecting model behavior, reliable backend systems,
-and interfaces that make the result useful.
+My goal is to build production-ready AI applications — connecting models,
+reliable backend systems, and interfaces that make the result useful.
 
 ## Connect With Me
 
 I'm open to projects, collaborations, and engineering opportunities,
-especially where full stack development meets machine learning.
+especially where full stack development meets AI engineering.
 
 **[Send me an email ↗](mailto:ramykhb18@gmail.com)**
 
